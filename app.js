@@ -21,7 +21,7 @@ const start = async () => {
       console.log(`${PORT} Yes I am connected`)
     });
   } catch (error){
-    console.log(errror)
+    console.log(error)
   }
 }
 
