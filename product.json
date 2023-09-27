@@ -2,37 +2,37 @@
   {
     "name": "spider-man1",
     "price": "156",
-    "feature": true,
+    "featured": true,
     "company": "apple"
   },
   {
     "name": "spider-man2",
     "price": "164",
-    "feature": true,
+    "featured": true,
     "company": "sony"
   },
   {
     "name": "spider-man3",
     "price": "190",
-    "feature": true,
+    "featured": true,
     "company": "samsung"
   },
   {
     "name": "spider-man4",
     "price": "299",
-    "feature": true,
+    "featured": true,
     "company": "apple"
   },
   {
     "name": "spider-man5",
     "price": "169",
-    "feature": true,
+    "featured": true,
     "company": "mi"
   },
   {
     "name": "spider-man6",
     "price": "132",
-    "feature": true,
+    "featured": true,
     "company": "samsung"
   }
 ]
