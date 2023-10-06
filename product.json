@@ -34,5 +34,17 @@
     "price": "132",
     "featured": true,
     "company": "samsung"
+  },
+  {
+    "name": "spider-man7",
+    "price": "182",
+    "featured": true,
+    "company": "zara"
+  },
+  {
+    "name": "spider-man8",
+    "price": "292",
+    "featured": true,
+    "company": "gucci"
   }
 ]
